@@ -1,0 +1,17 @@
+package ru.yandex.practicum.interfaces;
+
+public abstract class Parallelogram implements Figure {
+    // Длина стороны
+    private final double a;
+    // Высота
+    private final double h;
+
+    public Parallelogram(double a, double h) {
+        this.a = a;
+        this.h = h;
+    }
+
+    public double getArea() {
+        return a * h;
+    }
+}

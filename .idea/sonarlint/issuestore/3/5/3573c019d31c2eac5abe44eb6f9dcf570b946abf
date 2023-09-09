@@ -1,0 +1,9 @@
+
+n
+java:S1104"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ8èÁ¯Ó¡1
+o
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›8èÁ¯Ó¡1
+y
+java:S1104	"WMake pagesNumber a static final constant or non-public and provide accessors if needed.(Õâ¶Œúÿÿÿÿ8„Â¯Ó¡1
+m
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8²Â¯Ó¡1

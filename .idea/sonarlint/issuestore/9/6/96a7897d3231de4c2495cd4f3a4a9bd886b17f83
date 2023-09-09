@@ -1,0 +1,8 @@
+
+r	java:S116	"QRename this field "my_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šƒôƒÿÿÿÿÿ8ø³„Ü¡1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øöó¼üÿÿÿÿ8ˆ´„Ü¡1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÜ¹¢ûÿÿÿÿ8—´„Ü¡1
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(—¸ž”ýÿÿÿÿ8—´„Ü¡1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ƒÙš8—´„Ü¡1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(õúÅ‡8—´„Ü¡1

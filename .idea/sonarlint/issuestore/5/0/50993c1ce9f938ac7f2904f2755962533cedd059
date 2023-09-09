@@ -1,0 +1,12 @@
+
+r
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8ÍæİÛ¡1
+t
+java:S1104"RMake street a static final constant or non-public and provide accessors if needed.(ØÚ©ªÿÿÿÿÿ8ÍæİÛ¡1
+t
+java:S1104	"WMake houseNumber a static final constant or non-public and provide accessors if needed.(²º×è8ÍæİÛ¡1
+w
+java:S1104
+"UMake extraInfo a static final constant or non-public and provide accessors if needed.(¾ŞçËùÿÿÿÿ8ÍæİÛ¡1
+w
+java:S1104"UMake residents a static final constant or non-public and provide accessors if needed.(•ÖóÍüÿÿÿÿ8ÍæİÛ¡1
