@@ -27,7 +27,7 @@ public class Practicum {
         System.out.println("Заказы: " + userOrders);
 
         for (Map.Entry<User, List<String>> entry : userOrders.entrySet()) {
-            System.out.println("'" + entry.getKey() + "' содержит " + entry.getValue() + " килокалорий в 100 г.");
+            System.out.println("'" + entry.getKey() + "' содержит заказы № " + entry.getValue());
         }
 
     }
